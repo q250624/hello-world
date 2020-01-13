@@ -1,3 +1,3 @@
 # hello-world
 hello-world short description
-type stuff here this sucks 
+# type stuff here this sucks 
